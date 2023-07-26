@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![banner](https://github.com/Duong8888/Duong8888/assets/88546189/a782e4da-56cb-4149-8421-1261e88c34d2)
 <!--
 **Duong8888/Duong8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
