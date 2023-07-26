@@ -1,11 +1,10 @@
 ### <p align="center">Hi, I’m Duong 👋</p> 
 <div align="center">
-  <img src="https://github.com/Duong8888/Duong8888/assets/88546189/ee63bb78-f098-4c9f-8d1d-5fc421656c82" alt="banner" />
+   <img src="https://github.com/Duong8888/Duong8888/assets/88546189/61355200-2750-4b58-9e62-80ee9df96b77" alt="banner" />
 </div>
 
 
 <!--
-<img src="https://github.com/Duong8888/Duong8888/assets/88546189/61355200-2750-4b58-9e62-80ee9df96b77" alt="banner" />
 **Duong8888/Duong8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
